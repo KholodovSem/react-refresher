@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sem"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello world",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "JS",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "React",
+      "userId": 3
+    }
+  ]
+}
